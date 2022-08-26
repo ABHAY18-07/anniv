@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Allura
+Author: TypeSETit
+Url: https://fonts.google.com/specimen/Allura
+
+Font: Lora
+Author: Cyreal
+Url: https://fonts.google.com/specimen/Lora
